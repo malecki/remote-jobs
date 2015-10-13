@@ -32,6 +32,7 @@ Codeship | https://codeship.com/
 Collabora | https://www.collabora.com/
 Compose | https://www.compose.io/
 Coupa | http://www.coupa.com/
+Crunch.io | http://crunch.io/
 DataStax | http://www.datastax.com/
 DigitalOcean | https://www.digitalocean.com/
 DNSimple | https://dnsimple.com/
